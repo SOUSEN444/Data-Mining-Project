@@ -1,4 +1,5 @@
 INTRODUCTION
+
 This project studies the growing risk of developing thyroid-based cancers. The problem that this dataset handles is classifying individuals based on their risk level of developing this type of cancer, which is based on numerous background, health, and lifestyle factors. This classification problem categorizes individuals into three risk groups: high, medium, and low. This project is beneficial as it can help with better prediction and provide more information on early detection of thyroid cancer developing. 
 
 The main questions that this project answers some of the following:​
