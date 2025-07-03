@@ -21,6 +21,15 @@ showed 0, meaning that there were no duplicates in the set. 
 
 As there were no missing values or duplicates found, the data was good to go and I started on my data visualizations.
 
+DATA VISUALIZATIONS
+The first visualization used is a pie chart that explores the overall percentage of people from the 212,691 statistics collected in each of the risk categories. As evidenced in the graph, the low-risk category has the highest percentage of risk distribution, followed by the medium-risk and high-risk having the same percentage.
+
+The first visualization is a bar graph that explores the amount of people in low, medium, or high risk levels, depending on their indulgence in smoking. As evidenced in the graph, amongst the people who do smoke, more classified as medium risk or high risk, instead of low risk. On the contrary, amongst nonsmokers, majority of the people were in the low-risk category in comparison to medium-level or high level risk. 
+
+The second bar graph that explores the amount of people in low, medium, or high risk levels, depending on radiation exposure. As evidenced in the graph, amongst the people who experience more radiation exposure, there is an equal amount of people in both high and low risk categories, which are both singiciantly more than the people in the medium risk category. Amongst the population who do not face as much radiation exposure, there is an equal amount of people in both low and medium risk categories, which are both singiciantly more than the people in the high risk category. 
+
+The third bar graph that explores the amount of people in low, medium, or high risk levels, depending on their family history of possessing this cancer type. As evidenced in the graph, amongst the people do have this family history, there are more people in the low risk category, with a slightly smaller amount people in the high risk category, with no individuals in medium risk category. However, amongst the people that do not have such a history, the highest number of people in the medium risk category, while high and low risk categories have significantly lower, but equal, counts of people. 
+
 
 ​
 ​
